@@ -21,6 +21,31 @@ Sentinel is a lightweight, open-source security platform designed to bridge the 
 5. Professional Dashboard: A full UI built with Streamlit for monitoring alerts and managing blocklists.
 
 
+///Integration: Slack Notifications
+Sentinel supports real-time alerting via Slack Incoming Webhooks. When a threat is detected or an IP is automatically blocked, Sentinel pushes a notification to your designated security channel.
+
+How to enable:
+
+Create a Slack App: Go to the Slack API Dashboard and create a new app called "Sentinel".
+
+Enable Webhooks: Under "Features", click "Incoming Webhooks" and toggle it to On.
+
+Generate URL: Click "Add New Webhook to Workspace", choose your channel, and copy the Webhook URL.
+
+Configure Sentinel: Open run_api.py and update the following line:
+
+Python
+# Replace 'YOUR_WEBHOOK_URL_HERE' with your actual Webhook URL
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
+What you'll get:
+
+Instant Alerts: Notifications for Critical and High severity detections (Brute Force, Lateral Movement).
+
+Action Receipts: Confirmation messages whenever the system automatically bans an IP or locks an account.
+
+Contextual Data: Every alert includes the Attacker IP, Target User, and a direct link to the investigation timeline.
+
+
 
 \## 🚀 Quick Start
 
