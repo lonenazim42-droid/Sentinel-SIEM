@@ -10,15 +10,15 @@ Sentinel is a lightweight, open-source security platform designed to bridge the 
 
 
 
-1. Automated Detection:\*\* Identifies Brute Force attacks, Port Scans, and Lateral Movement in real-time.
+1. Automated Detection: Identifies Brute Force attacks, Port Scans, and Lateral Movement in real-time.
 
-2. Active Defense (SOAR):\*\* Automatically bans malicious IPs and locks compromised user accounts (Brute Force Protection).
+2. Active Defense (SOAR):  Automatically bans malicious IPs and locks compromised user accounts (Brute Force Protection).
 
-3. Forensics Engine:\*\* Reconstructs attack timelines and visualizes "Attack Chains" for investigators.
+3. Forensics Engine:  Reconstructs attack timelines and visualizes "Attack Chains" for investigators.
 
-4. Threat Intelligence:\*\* Integrated with VirusTotal API to validate suspicious IPs.
+4. Threat Intelligence: Integrated with VirusTotal API to validate suspicious IPs.
 
-5. Professional Dashboard:\*\* A full UI built with Streamlit for monitoring alerts and managing blocklists.
+5. Professional Dashboard: A full UI built with Streamlit for monitoring alerts and managing blocklists.
 
 
 
