@@ -30,7 +30,7 @@ Sentinel is a lightweight, open-source security platform designed to bridge the 
 
 ```bash
 
-git clone \[https://github.com/YOUR\_USERNAME/Sentinel-SIEM.git](https://github.com/YOUR\_USERNAME/Sentinel-SIEM.git)
+git clone \[https://github.com/lonenazim42-droid/Sentinel-SIEM.git](https://github.com/lonenazim42-droidE/Sentinel-SIEM.git)
 
 cd Sentinel-SIEM
 
