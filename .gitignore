@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+sentinel.db
+sentinel_forensics.db
+sentinel_threat_intel.db
+token.json
+.env

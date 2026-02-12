@@ -1,0 +1,7 @@
+flask
+flask-cors
+pyjwt
+requests
+streamlit
+pandas
+plotly
