@@ -1,8 +1,34 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Sentinel
 *.db
-sentinel.db
-sentinel_forensics.db
-sentinel_threat_intel.db
-token.json
+sentinel_*.db
+token_response.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
 .env
+.env.local
+.env.*.local
+
+# Cache
+.streamlit/
+*.cache
