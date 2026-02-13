@@ -819,7 +819,7 @@ elif page == "⚙️ Settings":
     • Multi-tenant architecture
     • Role-based access control
 
-    For support, visit: https://github.com/yourrepo/sentinel
+    For support, visit: https://github.com/lonenazim42-droid/Sentinel-SIEM
     """)
 
 # ============================================================================
