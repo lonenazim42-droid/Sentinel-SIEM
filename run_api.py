@@ -6,7 +6,7 @@ if __name__ == '__main__':
 
     brain = Brain()
 
-    brain.threat_intelligence.enable_virustotal("b53a03526ae706f410eea71149d5cdda487f7a6a4938e4b0769242a98e4f86e6")
+    brain.threat_intelligence.enable_virustotal("YOUR_API_KEY_HERE")
 
     # Provision Test Users
     print("📦 Provisioning users...")
