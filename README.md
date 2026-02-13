@@ -1,7 +1,5 @@
 # 🛡️ Sentinel Security Platform
 
-[![GitHub stars](https://img.shields.io/github/stars/lonenazim42-droid/sentinel?style=social)](https://github.com/lonenazim42-droid/sentinel/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/lonenazim42-droid/sentinel?style=social)](https://github.com/lonenazim42-droid/sentinel/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Enterprise-grade SIEM + SOAR platform for startups.** Real-time threat detection, automated response, forensics investigation, and threat intelligence - all FREE and open source.
